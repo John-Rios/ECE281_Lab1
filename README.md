@@ -8,15 +8,15 @@ every binary combination of the inputs while producing the binary outputs of the
 according to the code created in Lab1. The outputs match my truth table suggesting that my code
 is correct. 
 
-Inputs   | Outputs | Simulation |
-         | Expected|   Results  |
- ------- |:-------:| ----------:|
-A  B  C  | X  Y  Z |   X  Y  Z  |
-0  0  0  | 0  0  0 |   0  0  0  |
-0  0  1  | 1  1  1 |   1  1  1  |
-0  1  0  | 1  1  0 |   1  1  0  |
-0  1  1  | 1  0  1 |   1  0  1  |
-1  0  0  | 1  0  0 |   1  0  0  |
-1  0  1  | 0  1  1 |   0  1  1  |
-1  1  0  | 0  1  0 |   0  1  0  |
-1  1  1  | 0  0  1 |   0  0  1  |
+| Inputs  | Outputs | Simulation |
+|         | Expected|   Results  |
+| ------- |:-------:| ----------:|
+| A  B  C | X  Y  Z |   X  Y  Z  |
+| 0  0  0 | 0  0  0 |   0  0  0  |
+| 0  0  1 | 1  1  1 |   1  1  1  |
+| 0  1  0 | 1  1  0 |   1  1  0  |
+| 0  1  1 | 1  0  1 |   1  0  1  |
+| 1  0  0 | 1  0  0 |   1  0  0  |
+| 1  0  1 | 0  1  1 |   0  1  1  |
+| 1  1  0 | 0  1  0 |   0  1  0  |
+| 1  1  1 | 0  0  1 |   0  0  1  |
