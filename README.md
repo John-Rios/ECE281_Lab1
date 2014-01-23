@@ -10,7 +10,7 @@ is correct.
 
 Inputs   | Outputs | Simulation |
          | Expected|   Results  |
-_________|_________|____________|
+ ------- |:-------:| ----------:|
 A  B  C  | X  Y  Z |   X  Y  Z  |
 0  0  0  | 0  0  0 |   0  0  0  |
 0  0  1  | 1  1  1 |   1  1  1  |
