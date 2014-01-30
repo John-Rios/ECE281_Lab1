@@ -1,0 +1,32 @@
+# 3 bit converter constraaints
+# Input constraints
+#NET "A" LOC = "K18"; #Type = INPUT,Sch name = LD2
+#NET "B" LOC = "H18"; #Type = INPUT,Sch name = LD1
+#NET "C" LOC = "G18"; #Type = INPUT,Sch name = LD0
+#
+## Output LED constraints
+#NET "X" LOC = "K15"; #Type = OUTPUT,Sch name = LD2
+#NET "Y" LOC = "J15"; #Type = OUTPUT,Sch name = LD1
+#NET "Z" LOC = "J14"; #Type = OUTPUT,Sch name = LD0
+
+
+# 8 bit converter constraints
+# Input constraints
+NET "A" LOC = "R17"; #Type = INPUT,Sch name = LD7
+NET "B" LOC = "N17"; #Type = INPUT,Sch name = LD6
+NET "C" LOC = "L13"; #Type = INPUT,Sch name = LD5
+NET "D" LOC = "L14"; #Type = INPUT,Sch name = LD4
+NET "E" LOC = "K17"; #Type = INPUT,Sch name = LD3
+NET "F" LOC = "K18"; #Type = INPUT,Sch name = LD2
+NET "G" LOC = "H18"; #Type = INPUT,Sch name = LD1
+NET "H" LOC = "G18"; #Type = INPUT,Sch name = LD0
+
+# Output LED constraints
+NET "S" LOC = "R4"; #Type = OUTPUT,Sch name = LD7
+NET "T" LOC = "F4"; #Type = OUTPUT,Sch name = LD6
+NET "U" LOC = "P15"; #Type = OUTPUT,Sch name = LD5
+NET "V" LOC = "E17"; #Type = OUTPUT,Sch name = LD4
+NET "W" LOC = "K14"; #Type = OUTPUT,Sch name = LD3
+NET "X" LOC = "K15"; #Type = OUTPUT,Sch name = LD2
+NET "Y" LOC = "J15"; #Type = OUTPUT,Sch name = LD1
+NET "Z" LOC = "J14"; #Type = OUTPUT,Sch name = LD0
